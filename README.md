@@ -1,4 +1,9 @@
-# Hi there, I'm Neil Cayton 👋  
+---
+
+**Magic Message:**  
+<span style="background-color: #fff8dc; padding: 10px; border-radius: 5px;">Hello there Im Neil!</span>
+
+---
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
@@ -9,6 +14,8 @@
 - 🚀 &nbsp; I’m currently exploring AWS, R, C#, etc.
 - 💬 &nbsp; Ask me anything [here]([https://github.com/neilcayton/neilcayton/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neil Clarence Cayton) 
