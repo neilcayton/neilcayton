@@ -1,7 +1,7 @@
+
 ---
 
-**Magic Message:**  
-<span style="background-color: #fff8dc; padding: 10px; border-radius: 5px;">Hello there Im Neil!</span>
+# Welcome Visitor!
 
 ---
 
