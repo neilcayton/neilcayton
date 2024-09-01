@@ -13,7 +13,6 @@
 - 🛠 &nbsp; I’m currently working with JS, SPRING, HTML, etc.
 - 🚀 &nbsp; I’m currently exploring AWS, R, C#, etc.
 - 💬 &nbsp; Ask me anything [here]([https://github.com/neilcayton/neilcayton/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 
 
 
